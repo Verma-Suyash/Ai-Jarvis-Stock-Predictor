@@ -1,0 +1,19 @@
+# JARVIS – Python requirements
+# Run:  pip install -r requirements.txt
+
+# Core data science
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+scikit-learn>=1.1.0
+
+# Voice
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+
+# System info (optional but recommended)
+psutil>=5.9.0
+
+# Real stock data (optional – uncomment to enable)
+# yfinance>=0.2.0
